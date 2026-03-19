@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/abdallah-kareem-88465839a/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="abdalakareemabdala@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
