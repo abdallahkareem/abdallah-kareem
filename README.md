@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200" alt="7 segment display" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdallah Kareem</h1>
+<h1 align="center">Hey there! I'm Abdallah Kareem</h1>
 <h3 align="center">Machine Learning & AI Engineer | Computer Vision | NLP | Deep Learning | Robotics</h3>
 
 ---
