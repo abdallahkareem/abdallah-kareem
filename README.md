@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200" alt="7 segment display" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello+GitHub!;I'm+Abdallah+Kareem;Welcome+to+my+profile" />
 </p>
 
 <h1 align="center">Hey there! I'm Abdallah Kareem</h1>
